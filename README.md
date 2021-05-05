@@ -1,6 +1,6 @@
 # Hey 👋
 
-My name is KinG, I'm brazilian programmer, working with frontend and backend of fivem scripts since 2021. 💻
+My name is KinG, I'm brazilian programmer, working with frontend and backend of fivem scripts since 2021 and bots for discord since 2019. 💻
 
 I am a person who loves challenges to solve.
 
