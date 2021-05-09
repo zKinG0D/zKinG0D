@@ -17,3 +17,6 @@ I am a person who loves challenges to solve.
 [
 ![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/zking0d)
 ](https://www.youtube.com/zking0d)
+[
+![Discord Badge](https://img.shields.io/badge/-Discord-324ea8?style=flat-square&labelColor=324ea8&logo=discord&logoColor=white&link=https://discord.gg/jSDueh58cT)
+](https://discord.gg/jSDueh58cT)
