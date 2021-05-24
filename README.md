@@ -2,6 +2,7 @@
 
 My name is KinG, I'm brazilian programmer, working with frontend and backend of 
 - Fivem scripts since 2021 
+- Roblox scripts since 2020
 - Bots for discord since 2019
 - Plugins for minecraft since 2018. 💻
 
