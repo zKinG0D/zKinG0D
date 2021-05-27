@@ -9,7 +9,7 @@ My name is KinG, I'm brazilian programmer, working with frontend and backend of
 I am a person who loves challenges to solve.
 
 - 🎃 I’m currently working on freelance projects
-- ⚡ Languages that work: JavaScript & Lua
+- ⚡ Languages that work: Java , JavaScript & Lua
 - ✨ Working with scripts for fivem
 - 💬 Ask me about what you want to
 
