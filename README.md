@@ -1,6 +1,6 @@
 ## Olá! 👋 Eu sou KinG 
 
-- 💼 Hoje trabalho com Front-end.
+- 💼 Hoje trabalho com Back-end.
 - 🎓 Eu amo programação, sempre me dedico a aprender mais. 
 
 <div>
