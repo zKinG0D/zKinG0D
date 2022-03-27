@@ -9,6 +9,14 @@
 </div>
   
 <div style="display: inline_block"><br>
+  <a href="https://www.lua.org/docs.html">
+    <img align="center" alt="KinG-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
+  </a> 
+  
+  <a href="https://docs.python.org/">
+    <img align="center" alt="KinG-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  </a> 
+  
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img align="center" alt="KinG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
@@ -28,10 +36,6 @@
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
     <img align="center" alt="KinG-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </a>
-  
-  <a href="https://www.lua.org/docs.html">
-    <img align="center" alt="KinG-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
-  </a>  
   
   <img align="right" alt="KinG-gif" src="https://cdn.discordapp.com/attachments/762002925786497084/893250951966785566/ezgif.com-gif-maker.gif">
 </div>
