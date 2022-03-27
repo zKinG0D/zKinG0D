@@ -21,14 +21,6 @@
     <img align="center" alt="KinG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
   
-  <a href="https://www.typescriptlang.org/docs/">
-    <img align="center" alt="KinG-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  </a>
-  
-  <a href="https://pt-br.reactjs.org/docs/getting-started.html">
-    <img align="center" alt="KinG-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  </a>
-  
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
     <img align="center" alt="KinG-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   </a>
