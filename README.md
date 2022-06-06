@@ -1,7 +1,8 @@
 ## Olá! 👋 Eu sou KinG 
 
 - 💼 Hoje trabalho com Back-end.
-- 🎓 Eu amo programação, sempre me dedico a aprender mais. 
+- 🎓 Eu amo programação, sempre me dedico a aprender mais.
+- 💻 Learning C++ and other things...
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zking0d&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
